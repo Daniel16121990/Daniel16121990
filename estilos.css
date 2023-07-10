@@ -1,0 +1,16 @@
+#navegador{
+    display: flex;
+    justify-content: flex-end;
+}
+div{
+    background: black;
+    color: greenyellow;
+    margin: 10px;
+}
+body{
+    background: black;
+    color: grey;
+}
+div:hover{
+    color: aliceblue;
+}
